@@ -30,4 +30,4 @@ This project analyzes used car listings to identify best-value vehicles based on
 * Power BI dashboard
 
   📊 Dashboard Preview
-![Dashboard](dashboard1.png) (dashboard2.png)
+![Dashboard] (dashboard1.png) (dashboard2.png)
